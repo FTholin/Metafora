@@ -1,0 +1,117 @@
+{
+    "level": 1,
+    "numberQuestion": 20,
+    "types": [
+      {
+          "type": "allégorie",
+          "difficulties": [
+            {
+                "categorie": "image",
+                "rate": 40
+            },
+            {
+              "categorie": "rap",
+              "rate": 15
+            },
+            {
+              "categorie": "classique",
+              "rate": 5
+            },
+            {
+              "categorie": "definition",
+              "rate": 40
+            }
+          ],
+          "rate": 20
+      },
+      {
+        "type": "antithèse",
+        "difficulties": [
+          {
+            "categorie": "image",
+            "rate": 40
+          },
+          {
+            "categorie": "rap",
+            "rate": 15
+          },
+          {
+            "categorie": "classique",
+            "rate": 5
+          },
+          {
+            "categorie": "definition",
+            "rate": 40
+          }
+        ],
+        "rate": 20
+      },
+      {
+        "type": "métaphore",
+        "difficulties": [
+          {
+            "categorie": "image",
+            "rate": 40
+          },
+          {
+            "categorie": "rap",
+            "rate": 15
+          },
+          {
+            "categorie": "classique",
+            "rate": 5
+          },
+          {
+            "categorie": "definition",
+            "rate": 40
+          }
+        ],
+        "rate": 20
+      },
+      {
+        "type": "hyperbole",
+        "difficulties": [
+          {
+            "categorie": "image",
+            "rate": 40
+          },
+          {
+            "categorie": "rap",
+            "rate": 15
+          },
+          {
+            "categorie": "classique",
+            "rate": 5
+          },
+          {
+            "categorie": "definition",
+            "rate": 40
+          }
+        ],
+        "rate": 20
+    },
+    {
+      "type": "comparaison",
+      "difficulties": [
+        {
+          "categorie": "image",
+          "rate": 40
+        },
+        {
+          "categorie": "rap",
+          "rate": 15
+        },
+        {
+          "categorie": "classique",
+          "rate": 5
+        },
+        {
+          "categorie": "definition",
+          "rate": 40
+        }
+      ],
+      "rate": 20
+    }
+    ],
+    "required": []
+}
